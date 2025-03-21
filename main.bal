@@ -14,3 +14,10 @@ public function hello()
 {
     io:println();
 }
+
+publi function testDev()
+{
+    
+}
+
+
